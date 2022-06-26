@@ -1,4 +1,0 @@
-from Config import *
-from os import environ
-
-addFilter('memtest.*: unstripped-binary-or-object (\(.*\) |)/boot/memtest.bin')
